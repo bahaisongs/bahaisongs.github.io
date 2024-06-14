@@ -1,16 +1,20 @@
-# bahaisongs_github_io
+# Welcome to the Baha'i Songs App
 
-A new Flutter project.
+Immerse yourself in the spiritual melodies that have inspired the hearts of the Bahá'í community for over 30 years.
 
-## Getting Started
+The Bahá'í Songs of Kenya app brings to life a cherished collection of 135 songs, compiled from decades of compositions by believers across Kenya and beyond, now beautifully adapted into an interactive mobile experience.
 
-This project is a starting point for a Flutter application.
+[![App Store](/assets/icons/appstore.svg)](https://apps.apple.com/nl/app/bah%C3%A1%C3%AD-songs/id6478047439?l=en-GB) 
 
-A few resources to get you started if this is your first Flutter project:
+[![Google Play Store](/assets/icons/googleplay.svg)](https://play.google.com/store/apps/details?id=dev.middelaar.tuimbe_pamoja&pcampaignid=web_share) 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Explore, Listen, and Learn:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Sing Along**: Access both audio tracks and lyrics for each song, perfect for learning and practicing at home.
+- **Custom Playlists**: Enjoy continuous play or shuffle through the songs for a diverse listening experience.
+- **Favourites Feature**: Easily mark and retrieve your favourite melodies for quick access.
+- **Adjustable Settings**: Choose between a light or dark mode and adjust the text size for optimal reading comfort.
+
+Whether you're preparing for a community gathering or seeking personal enrichment, these songs, grounded in the Writings of the Bahá'í Faith, are a source of inspiration and unity. With the Bahá'í Songs of Kenya app, you're always just a tap away from joining in the melody of fellowship.
+
+**Download now and let your spirit sing!**

@@ -1,0 +1,50 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    height: 100vh;
+}
+
+.container {
+    background-color: white;
+    border-radius: 8px;
+    text-align: center;
+    width: 600px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.appstore img, .googleplay img {
+    height: 48px;
+    width: auto; /* Maintain aspect ratio */
+}
+
+@media (max-width: 640px) {
+    .container {
+        width: 90%; /* Makes the container responsive */
+        padding: 10px; /* Adds padding for smaller screens */
+    }
+}

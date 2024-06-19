@@ -8,6 +8,8 @@ The Bahá'í Songs of Kenya app brings to life a cherished collection of 135 son
 
 [![Google Play Store](/assets/icons/googleplay.svg)](https://play.google.com/store/apps/details?id=dev.middelaar.tuimbe_pamoja&pcampaignid=web_share) 
 
+[![Huawei AppGallerey](/assets/icons/huawei.png)](https://appgallery.huawei.com/#/app/C111288675) 
+
 ## Explore, Listen, and Learn:
 
 - **Sing Along**: Access both audio tracks and lyrics for each song, perfect for learning and practicing at home.

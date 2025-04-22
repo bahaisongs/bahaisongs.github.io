@@ -36,11 +36,13 @@
         device during installation, and playback occurs locally. <strong>No streaming is used, and no playback history
             is stored or transmitted</strong> to our servers.</p>
     <h2>4. Media Delivery and Third-Party Services</h2>
-    <p>The Bahá’í Songs app uses <strong>Cloudflare R2</strong>, a secure object storage service, in combination with
-        <strong>Cloudflare’s content delivery network (CDN)</strong> to serve media files such as audio.</p>
-    <p>When you stream songs:</p>
+    <p>The Bahá’í Songs app uses <strong>Cloudflare R2</strong>, a secure object storage service, to host the audio and
+        media files. These files are downloaded to the device as part of the app installation process.</p>
+    <p>The app does <strong>not stream audio</strong> during playback, and no media files are fetched from the internet
+        after installation.</p>
+    <p>During app updates or when checking for the latest version, the app may access files from Cloudflare R2, in which
+        case:</p>
     <ul>
-        <li>Your device connects to Cloudflare’s edge servers to retrieve the audio from Cloudflare R2.</li>
         <li>Cloudflare may collect <strong>non-identifying metadata</strong> (e.g., IP address, device type, timestamp)
             for security and performance monitoring.
         </li>
